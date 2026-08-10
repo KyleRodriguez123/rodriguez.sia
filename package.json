@@ -1,13 +1,18 @@
 {
-      "name": "rodriguez.sia",
-        "version": "1.0.0",
-          "description": "Exercise Activities",
-            "main": "index.js",
-              "scripts": {
-                  "test": "echo \"Error: no test specified\" && exit 1"
-                    },
-                      "author": "Kyle Rodriguez",
-                        "license": "ISC"
-                        }
+  "name": "rodriguez.sia",
+  "version": "1.0.0",
+  "description": "activities",
+  "keywords": [
+    "sia",
+    "activity",
+    "sy26-27"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kyle Rodriguez",
+  "type": "commonjs"
+}
 
                     
